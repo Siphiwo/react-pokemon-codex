@@ -42,7 +42,7 @@ code {
   background-color:#E0F1FD;
 }
 
-.app-contaner {
+.app-container {
   display: flex;
   flex-direction: column;
   align-items: center;
